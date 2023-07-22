@@ -1,0 +1,5 @@
+customtkinter
+pytz
+timezonefinder
+geopy.geocoders
+pyowm
